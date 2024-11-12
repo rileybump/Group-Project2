@@ -9,7 +9,7 @@
         </context>
         <steps>
             <step>
-                <cmd>Create a index topic</cmd>
+                <cmd>Create an index topic</cmd>
                 <substeps id="substeps_jlz_lw1_jdc">
                     <substep>
                         <cmd>Create a new file in your Oxygen project</cmd>
@@ -45,6 +45,10 @@
                             Files</cmd>
                     </substep>
                 </substeps>
+            </step>
+            <step>
+                <cmd>Repeat Steps 2 &amp; 3 as many times as necessary to create all of your
+                    content</cmd>
             </step>
         </steps>
     </taskbody>
