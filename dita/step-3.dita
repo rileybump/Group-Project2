@@ -45,6 +45,7 @@
                             Files</cmd>
                     </substep>
                 </substeps>
+                <stepxmp>#Heading will be a heading, *italics* will be written in italics.</stepxmp>
             </step>
             <step>
                 <cmd>Repeat Steps 2 &amp; 3 as many times as necessary to create all of your
