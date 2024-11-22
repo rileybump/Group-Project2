@@ -10,7 +10,7 @@
         <steps>
             <step>
                 <cmd>Create a Project in Oxygen Content Fusion</cmd>
-                <substeps id="substeps_swx_31p_jdc">
+            <substeps id="substeps_swx_31p_jdc">
                     <substep>
                         <cmd>Click on the projects tab at the top of your screen</cmd>
                     </substep>
@@ -19,7 +19,7 @@
                     </substep>
                 </substeps>
             </step>
-            <step>
+        <step>
                 <cmd>Copy the URL of your GitHub repository </cmd>
             </step>
             <step>
